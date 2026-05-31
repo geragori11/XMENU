@@ -12,7 +12,7 @@ local LocalPlayer = Players.LocalPlayer
 local Mouse = LocalPlayer:GetMouse()
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/geragori11/XClientMenuV2/main/source.lua"))()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/geragori11/checkerXClient/main/check.lua"))()
 -- ==========================================
 -- ЗАГРУЗЧИК ВНЕШНИХ МОДУЛЕЙ
 -- ==========================================
