@@ -1,4 +1,4 @@
---[[ XClient protect v.03v [PRO] ]]--
+
 do
     if not (game and typeof(game) == "Instance" and game.ClassName == "DataModel" and workspace) then
         while true do end
